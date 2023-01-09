@@ -3,8 +3,9 @@
 ## デモ
 ## 使用する技術
 - vite
-- vue3
-- typescript
+- React
+- Material UI
+- Typescript
 - firebase hosting
 - fire store
 - Storage(Google Cloud Strage)
@@ -14,6 +15,7 @@
 ```
 yarn create vite
 cd [作成したディレクトリ]
+vue add vuetify
 yarn
 yarn dev
 ```
